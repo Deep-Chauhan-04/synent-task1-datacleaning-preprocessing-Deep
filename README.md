@@ -7,6 +7,7 @@ This repository contains a Jupyter Notebook ([Task1.ipynb](Task1.ipynb)) dedicat
 - [Dataset Specifications](#dataset-specifications)
 - [Preprocessing Pipeline](#preprocessing-pipeline)
 - [Installation and Setup](#installation-and-setup)
+- [Screenshots of the Project](#screenshots)
 
 ---
 
